@@ -7,7 +7,6 @@ class CityList extends Component {
 
     // Helper function
     renderItem(city) {
-        console.log(city);
         return <ListItem city={city.item} />;
     }
 

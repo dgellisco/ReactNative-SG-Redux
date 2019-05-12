@@ -1,11 +1,15 @@
 import React, { Component } from 'react';
 import { Image, Text } from 'react-native';
+import { connect } from 'react-redux';
 import { CardSection } from './common';
+// Imports all actions from action folder, and assigns to var 'actions'
+import * as actions from '.././action';
 
 class ListItem extends Component {
 
     render() {
         const { imageStyle, titleStyle } = styles;
+        console.log(this.props);
 
         return (
             <CardSection>
@@ -16,7 +20,6 @@ class ListItem extends Component {
                     style={imageStyle}
                     source={{ uri: this.props.city.image }}
                 />
-                
             </CardSection>
         )
     }
@@ -28,10 +31,14 @@ const styles = {
         paddingLeft: 15
     },
     imageStyle: {
-        resizeMode: 'cover',
-        height: 100,
-        width: 100
+        paddingLeft: 15,
+        height: 300,
+        width: 300
     }
 }
 
-export default ListItem;
+// Connect:
+// First argument is explicitly for mapStateToProps.  Otherwise, must be null.
+// Second argument is for actions.  Passed to component as props.
+// Modifies what data will be provided to ListItem as props
+export default connect(null, actions)(ListItem);

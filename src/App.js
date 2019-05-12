@@ -9,7 +9,7 @@ import CityList from './components/CityList';
 const App = () => {
     return (
         <Provider store={createStore(reducers)}>
-            <View>
+            <View style={{ flex: 1 }}>
                 <Header headerText="Redux Cities" />
                 <CityList />
             </View>
