@@ -1,3 +1,3 @@
-import data from './CityList.json';
+import cityData from './CityList.json';
 
-export default () => data;
+export default () => cityData;
