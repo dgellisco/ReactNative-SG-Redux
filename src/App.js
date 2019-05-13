@@ -8,6 +8,8 @@ import CityList from './components/CityList';
 
 const App = () => {
     return (
+        // Provider tags facilitates communication between React and Redux
+        // Created store
         <Provider store={createStore(reducers)}>
             <View style={{ flex: 1 }}>
                 <Header headerText="Redux Cities" />

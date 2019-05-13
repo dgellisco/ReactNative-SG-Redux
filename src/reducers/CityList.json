@@ -4,7 +4,7 @@
         "cityName": "Putney, New South Wales",
         "country": "AUS",
         "countryIcon": "https://cdn2.iconfinder.com/data/icons/waving-world-flags/512/australia-512.png",
-        "description": "These trees are so much fun. I get started on them and I have a hard time stopping. I thought today we would do a happy little picture. If you've been in Alaska less than a year you're a Cheechako. Everyone needs a friend. Friends are the most valuable things in the world. With practice comes confidence. You need the dark in order to show the light.",
+        "description": "Putney is a suburb of Sydney, New South Wales, Australia. It is located 10 kilometres north-west of the Sydney central business district on the northern bank of the Parramatta River. Its local government area is the City of Ryde.",
         "imageUrl": "https://github.com/dgellisco/ReactNative-Redux/blob/master/src/assets/imgs/putney.jpg?raw=true"
     },
     {
@@ -12,7 +12,7 @@
         "cityName": "Lawson, New South Wales",
         "country": "AUS",
         "countryIcon": "https://cdn2.iconfinder.com/data/icons/waving-world-flags/512/australia-512.png",
-        "description": "These trees are so much fun. I get started on them and I have a hard time stopping. I thought today we would do a happy little picture. If you've been in Alaska less than a year you're a Cheechako. Everyone needs a friend. Friends are the most valuable things in the world. With practice comes confidence. You need the dark in order to show the light.",
+        "description": "Lawson is a town in the Blue Mountains area of New South Wales, Australia. It is located on the Great Western Highway between Hazelbrook in the north east and Bullaburra in the west. Lawson has a station on the Main Western line.",
         "imageUrl": "https://github.com/dgellisco/ReactNative-Redux/blob/master/src/assets/imgs/lawson.jpg?raw=true"
     },
     {
@@ -20,7 +20,7 @@
         "cityName": "Surry Hills, New South Wales",
         "country": "AUS",
         "countryIcon": "https://cdn2.iconfinder.com/data/icons/waving-world-flags/512/australia-512.png",
-        "description": "These trees are so much fun. I get started on them and I have a hard time stopping. I thought today we would do a happy little picture. If you've been in Alaska less than a year you're a Cheechako. Everyone needs a friend. Friends are the most valuable things in the world. With practice comes confidence. You need the dark in order to show the light.",
+        "description": "Surry Hills is an evolving area known for its stylish cultural and cafe scene. Terraced houses on Crown and Cleveland streets showcase hip coffee joints, fashion boutiques and global eateries. Trendy pubs, wine bars and galleries dot the area around Surry Hills Library, a community hub with a contemporary, sustainable design. Held once a month, Surry Hills Markets lure shoppers for snacks and vintage goods.",
         "imageUrl": "https://github.com/dgellisco/ReactNative-Redux/blob/master/src/assets/imgs/surryhills.jpg?raw=true"
     },
     {
@@ -28,7 +28,7 @@
         "cityName": "Fayetteville, Arkansas",
         "country": "USA",
         "countryIcon": "https://cdn2.iconfinder.com/data/icons/waving-world-flags/512/USA-512.png",
-        "description": "These trees are so much fun. I get started on them and I have a hard time stopping. I thought today we would do a happy little picture. If you've been in Alaska less than a year you're a Cheechako. Everyone needs a friend. Friends are the most valuable things in the world. With practice comes confidence. You need the dark in order to show the light.",
+        "description": "Fayetteville is a city in northwest Arkansas. Near the University of Arkansas campus, the Clinton House Museum was the first home of Bill and Hillary Clinton. Vintage and modern airplanes are on display in a hangar at the Arkansas Air and Military Museum. To the west, Prairie Grove Battlefield State Park was the site of a Civil War battle. Mount Sequoyah Woods Trail runs through a thick forest.",
         "imageUrl": "https://github.com/dgellisco/ReactNative-Redux/blob/master/src/assets/imgs/fayetteville.jpg?raw=true"
     },
     {
@@ -36,7 +36,7 @@
         "cityName": "Boulder, Colorado",
         "country": "USA",
         "countryIcon": "https://cdn2.iconfinder.com/data/icons/waving-world-flags/512/USA-512.png",
-        "description": "These trees are so much fun. I get started on them and I have a hard time stopping. I thought today we would do a happy little picture. If you've been in Alaska less than a year you're a Cheechako. Everyone needs a friend. Friends are the most valuable things in the world. With practice comes confidence. You need the dark in order to show the light.",
+        "description": "Boulder is a city at the foothills of the Rocky Mountains, in northern Colorado. To the west, the trail-lined Flatirons are craggy rock formations overlooking the city. Downtown’s pedestrian Pearl Street Mall includes art galleries, cafes, restaurants and boutiques. The University of Colorado Boulder campus is home to the Fiske Planetarium and the Museum of Natural History, with zoology and anthropology exhibits.",
         "imageUrl": "https://github.com/dgellisco/ReactNative-Redux/blob/master/src/assets/imgs/boulder.jpg?raw=true"
     },
     {
@@ -44,7 +44,7 @@
         "cityName": "Denver, Colorado",
         "country": "USA",
         "countryIcon": "https://cdn2.iconfinder.com/data/icons/waving-world-flags/512/USA-512.png",
-        "description": "These trees are so much fun. I get started on them and I have a hard time stopping. I thought today we would do a happy little picture. If you've been in Alaska less than a year you're a Cheechako. Everyone needs a friend. Friends are the most valuable things in the world. With practice comes confidence. You need the dark in order to show the light.",
+        "description": "Denver, the capital of Colorado, is an American metropolis dating to the Old West era. Larimer Square, the city’s oldest block, features landmark 19th-century buildings. Museums include the Denver Art Museum, an ultramodern complex known for its collection of indigenous works, and the mansion of famed Titanic survivor Molly Brown. Denver is also a jumping-off point for ski resorts in the nearby Rocky Mountains.",
         "imageUrl": "https://github.com/dgellisco/ReactNative-Redux/blob/master/src/assets/imgs/denver.jpg?raw=true"
     }
 ]

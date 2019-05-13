@@ -2,6 +2,7 @@
 
 // Always provide an intial state default argument.  If state is undefined, it will be processed as 'null'.  This is ES6.
 export default (state = null, action) => {
+    // Single switch statement to determine what (if any) response will be made by reducer to action
     switch (action.type) {
         // When action is of type 'select_city'
         case 'select_city':
