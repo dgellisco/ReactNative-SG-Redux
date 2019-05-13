@@ -1,44 +1,50 @@
 [
     {
         "id": 0,
-        "city": "Putney, New South Wales",
+        "cityName": "Putney, New South Wales",
         "country": "AUS",
+        "countryIcon": "https://cdn2.iconfinder.com/data/icons/waving-world-flags/512/australia-512.png",
         "description": "These trees are so much fun. I get started on them and I have a hard time stopping. I thought today we would do a happy little picture. If you've been in Alaska less than a year you're a Cheechako. Everyone needs a friend. Friends are the most valuable things in the world. With practice comes confidence. You need the dark in order to show the light.",
-        "image": "https://github.com/dgellisco/ReactNative-Redux/blob/master/src/assets/imgs/putney.jpg?raw=true"
+        "imageUrl": "https://github.com/dgellisco/ReactNative-Redux/blob/master/src/assets/imgs/putney.jpg?raw=true"
     },
     {
         "id": 1,
-        "city": "Lawson, New South Wales",
+        "cityName": "Lawson, New South Wales",
         "country": "AUS",
+        "countryIcon": "https://cdn2.iconfinder.com/data/icons/waving-world-flags/512/australia-512.png",
         "description": "These trees are so much fun. I get started on them and I have a hard time stopping. I thought today we would do a happy little picture. If you've been in Alaska less than a year you're a Cheechako. Everyone needs a friend. Friends are the most valuable things in the world. With practice comes confidence. You need the dark in order to show the light.",
-        "image": "https://github.com/dgellisco/ReactNative-Redux/blob/master/src/assets/imgs/lawson.jpg?raw=true"
+        "imageUrl": "https://github.com/dgellisco/ReactNative-Redux/blob/master/src/assets/imgs/lawson.jpg?raw=true"
     },
     {
         "id": 2,
-        "city": "Surry Hills, New South Wales",
+        "cityName": "Surry Hills, New South Wales",
         "country": "AUS",
+        "countryIcon": "https://cdn2.iconfinder.com/data/icons/waving-world-flags/512/australia-512.png",
         "description": "These trees are so much fun. I get started on them and I have a hard time stopping. I thought today we would do a happy little picture. If you've been in Alaska less than a year you're a Cheechako. Everyone needs a friend. Friends are the most valuable things in the world. With practice comes confidence. You need the dark in order to show the light.",
-        "image": "https://github.com/dgellisco/ReactNative-Redux/blob/master/src/assets/imgs/surryhills.jpg?raw=true"
+        "imageUrl": "https://github.com/dgellisco/ReactNative-Redux/blob/master/src/assets/imgs/surryhills.jpg?raw=true"
     },
     {
         "id": 3,
-        "city": "Fayetteville, Arkansas",
+        "cityName": "Fayetteville, Arkansas",
         "country": "USA",
+        "countryIcon": "https://cdn2.iconfinder.com/data/icons/waving-world-flags/512/USA-512.png",
         "description": "These trees are so much fun. I get started on them and I have a hard time stopping. I thought today we would do a happy little picture. If you've been in Alaska less than a year you're a Cheechako. Everyone needs a friend. Friends are the most valuable things in the world. With practice comes confidence. You need the dark in order to show the light.",
-        "image": "https://github.com/dgellisco/ReactNative-Redux/blob/master/src/assets/imgs/fayetteville.jpg?raw=true"
+        "imageUrl": "https://github.com/dgellisco/ReactNative-Redux/blob/master/src/assets/imgs/fayetteville.jpg?raw=true"
     },
     {
         "id": 4,
-        "city": "Boulder, Colorado",
+        "cityName": "Boulder, Colorado",
         "country": "USA",
+        "countryIcon": "https://cdn2.iconfinder.com/data/icons/waving-world-flags/512/USA-512.png",
         "description": "These trees are so much fun. I get started on them and I have a hard time stopping. I thought today we would do a happy little picture. If you've been in Alaska less than a year you're a Cheechako. Everyone needs a friend. Friends are the most valuable things in the world. With practice comes confidence. You need the dark in order to show the light.",
-        "image": "https://github.com/dgellisco/ReactNative-Redux/blob/master/src/assets/imgs/boulder.jpg?raw=true"
+        "imageUrl": "https://github.com/dgellisco/ReactNative-Redux/blob/master/src/assets/imgs/boulder.jpg?raw=true"
     },
     {
         "id": 5,
-        "city": "Denver, Colorado",
+        "cityName": "Denver, Colorado",
         "country": "USA",
+        "countryIcon": "https://cdn2.iconfinder.com/data/icons/waving-world-flags/512/USA-512.png",
         "description": "These trees are so much fun. I get started on them and I have a hard time stopping. I thought today we would do a happy little picture. If you've been in Alaska less than a year you're a Cheechako. Everyone needs a friend. Friends are the most valuable things in the world. With practice comes confidence. You need the dark in order to show the light.",
-        "image": "https://github.com/dgellisco/ReactNative-Redux/blob/master/src/assets/imgs/denver.jpg?raw=true"
+        "imageUrl": "https://github.com/dgellisco/ReactNative-Redux/blob/master/src/assets/imgs/denver.jpg?raw=true"
     }
 ]

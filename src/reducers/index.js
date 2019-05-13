@@ -1,4 +1,4 @@
-// Runs on startup
+// Runs on startup.
 // Needs at least some value.  Cannot be undefined, but can be null or an empty string/array.
 
 import { combineReducers } from 'redux';
