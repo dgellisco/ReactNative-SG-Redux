@@ -9,10 +9,10 @@ A React-Native & Redux app that shows a chronological list of the cities I have 
 ## Skills & Competencies Demonstrated
 
 * React-Native project creation and setup
-* Proper use of React components and state, including the ListView.
-   * The ListView only renders items in a list that are visible on the user's screen (notice how images render as the user scrolls)
-* Use of Redux to generate state based on requests (actions) and conditions (reducers)
-* Basic animations
+* Use of React components and state
+* Use of React-Native components, including the dynamic ListView (which only renders items in the user's view - notice how images render as the user scrolls)
+* Use of Redux to manage state through specific actions and reducers
+* Basic React-Native animation
 
 ## How To View
 
