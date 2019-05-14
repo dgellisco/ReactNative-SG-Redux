@@ -27,17 +27,15 @@ const styles = {
         alignItems: 'center',
         height: 60,
         // Shadowing ios
-        shadowColor: '#000',
+        shadowColor: '#9e9e9e',
         shadowOffset: { width: 0, height: 2 },
         shadowOpacity: 0.1,
         // Shadowing android
         elevation: 2,
-        position: 'relative'
+        position: 'relative',
         // Border
-        // borderColor: 'black',
-        // borderWidth: 1.5,
-        // borderRightWidth: 3,
-        // borderBottomWidth: 3
+        borderColor: '#9e9e9e',
+        borderBottomWidth: 1.5
     }
 };
 
