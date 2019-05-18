@@ -4,7 +4,7 @@ A React-Native & Redux app that shows a chronological list of the cities I have 
 
 ## Demonstration
 
-![Image](https://github.com/dgellisco/ReactNative-Redux/blob/master/README-Demo01.gif?raw=true)
+![Image](https://github.com/dgellisco/ReactNative-SG-Redux/blob/master/README-Demo01.gif?raw=true)
 
 ## Skills & Competencies Demonstrated
 
