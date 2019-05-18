@@ -20,9 +20,3 @@ A React-Native & Redux app that shows a chronological list of the cities I have 
 2. Install react-native.
 3. Install the repo-specific dependencies using `npm install`.
 4. Run the app in an emulator with `react-native run-android` or `react-native run-ios`.  Be sure to reference the [React-Native ReadMe](https://github.com/facebook/react-native/blob/master/README.md) for information on this process.
-
-## Acknowledgments
-
-* Thank you to Stephen Grider for his [wonderful course on React Native](https://www.udemy.com/the-complete-react-native-and-redux-course/).
-* Also, thank you to Trilogy and the University Of Denver for sparking my coding passion with their in-depth [coding boot camp](https://bootcamp.du.edu/coding/).
-
